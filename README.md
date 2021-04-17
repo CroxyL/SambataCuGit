@@ -1,2 +1,3 @@
 # SambataCuGit
-Invatam cum functioneaza
+Invatam cum functioneaza. Am facut o midificare
+
