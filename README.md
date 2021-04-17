@@ -1,0 +1,2 @@
+# SambataCuGit
+Invatam cum functioneaza
